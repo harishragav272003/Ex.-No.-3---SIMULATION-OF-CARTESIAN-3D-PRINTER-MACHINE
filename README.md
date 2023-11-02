@@ -59,6 +59,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/harishragav272003/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119345345/f1aa15b1-c390-483c-811f-97bf07eae24c)
+
 
 ### Name: HARISH RAGAV S
 ### Register Number: 212222110013
